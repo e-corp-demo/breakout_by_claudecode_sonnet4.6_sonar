@@ -1,4 +1,4 @@
-# Neon Breakout
+# Breakout (Claude Code, Sonnet 4.6, Sonar MCP)
 
 A premium, arcade-polished Breakout game built with plain HTML5 Canvas — no frameworks, no dependencies.
 

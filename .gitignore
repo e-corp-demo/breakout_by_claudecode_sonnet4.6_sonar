@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Claude Code
+claude_session_id
+.claude/settings.local.json
+
+# Raw video recordings
+*.mov

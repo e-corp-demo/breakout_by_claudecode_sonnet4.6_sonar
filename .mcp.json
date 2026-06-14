@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "sonarqube": {
+      "command": "sonar",
+      "args": [
+        "run",
+        "mcp",
+        "--project",
+        "e-corp-demo_breakout_by_claude"
+      ]
+    }
+  }
+}
